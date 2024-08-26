@@ -1,0 +1,38 @@
+{
+  "name": "DateNight-Themed Custom Enmity",
+  "description": "A theme based on the requested image with teal and dark accents.",
+  "authors": [
+    {
+      "name": "ChatGPT",
+      "id": "000000000000000000"
+    }
+  ],
+  "background": {
+    "url": "https://example.com/background.jpg",
+    "alpha": 0.7,
+    "blur": 0.4
+  },
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#50C878"],
+    "HEADER_SECONDARY": ["#50C878"],
+    "TEXT_NORMAL": ["#50C878"],
+    "TEXT_PRIMARY": ["#50C878"],
+    "TEXT_MUTED": ["#50C878"],
+    "INTERACTIVE_NORMAL": ["#50C878"],
+    "INTERACTIVE_HOVER": ["#50C878"],
+    "INTERACTIVE_ACTIVE": ["#50C878"],
+    "BACKGROUND_PRIMARY": ["#121223"],
+    "BACKGROUND_SECONDARY": ["#262f3d"],
+    "BACKGROUND_FLOATING": ["#274b5c"],
+    "BACKGROUND_ACCENT": ["#4f5566"],
+    "TEXT_LINK": ["#50C878"],
+    "TEXT_DANGER": ["#50C878"]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#50C878",
+    "PRIMARY_200": "#50C878",
+    "PRIMARY_300": "#50C878",
+    "PRIMARY_600": "#50C878",
+    "PRIMARY_800": "#50C878"
+  }
+}
